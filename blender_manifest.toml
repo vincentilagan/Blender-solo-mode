@@ -1,0 +1,26 @@
+schema_version = "1.0.0"
+
+id = "solo_mode"
+version = "1.0.8"
+name = "Solo Mode"
+tagline = "SOLO VISIBILITY FOR FAST OBJECT EDITING"
+maintainer = "Vincent Ilagan"
+type = "add-on"
+
+website = "https://github.com/vincentilagan/Blender-solo-mode"
+tags = ["3D View", "Object"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+copyright = [
+  "2026 Vincent Ilagan",
+]
+
+[permissions]
+files = "Not required"
+network = "Not required"
+clipboard = "Not required"
+camera = "Not required"
+microphone = "Not required"
